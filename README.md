@@ -53,6 +53,6 @@ This project is a comprehensive tutorial designed to help web development studen
    Save the tutorial as a Markdown file (e.g., `gist-template.md`) in your project directory.
 
 ## Screenshots
-![Image Alt](https://github.com/DippaFudd/Regex_Tut/blob/51e9bed6dee572261fdde388090e16a9b3dcb50d/2025-03-23%20(1).png)
+![Image Alt](https://github.com/DippaFudd/Regex_Tut/blob/1915cf7f810685815201fdc1113b5985703b164b/2025-03-23%20(4).png)
 Link :
 https://gist.github.com/18aaa703509c248dc2e1825b86a4fab3.git
