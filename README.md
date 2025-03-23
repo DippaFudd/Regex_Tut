@@ -25,6 +25,6 @@ This project is a comprehensive tutorial designed to help web development studen
     - **THEN** I find a section about the author and a link to the author’s GitHub profile.  
 
 ## Screenshots
-
+![Image Alt](https://github.com/DippaFudd/Regex_Tut/blob/51e9bed6dee572261fdde388090e16a9b3dcb50d/2025-03-23%20(1).png)
 Link :
 https://gist.github.com/eb34dfda74b846ad5b5b74a56349486f.git
